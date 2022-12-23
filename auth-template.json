@@ -1,0 +1,4 @@
+{
+  "baseUrl": "https://<your-upstash-database-url>.upstash.io",
+  "token": "<your-database-token>"
+}
